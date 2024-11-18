@@ -1,0 +1,3 @@
+D:/Downloads/final-project-student-information-system-gupony/cmake-build-debug/CMakeFiles/final_project_student_information_system_gupony.dir
+D:/Downloads/final-project-student-information-system-gupony/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Downloads/final-project-student-information-system-gupony/cmake-build-debug/CMakeFiles/rebuild_cache.dir
